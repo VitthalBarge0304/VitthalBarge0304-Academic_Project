@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.c6024725.js",
+    "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
+    "static/media/clg_photo.jpg": "/static/media/clg_photo.d068a2c7030081c62aaf.jpg",
+    "static/media/logo_svpm.png": "/static/media/logo_svpm.af23ecfdcff7447ae6a6.png",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.c6024725.js.map": "/static/js/main.c6024725.js.map",
+    "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c6024725.js"
+  ]
+}
